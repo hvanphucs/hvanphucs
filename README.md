@@ -1,6 +1,6 @@
 ### Hi there. I am Van Phuc Huynh 👋
 
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=hvanphucs&show_icons=true&theme=react)
+<! --- ![hvanphucs's github stats](https://github-readme-stats.vercel.app/api?username=hvanphucs&show_icons=true&theme=react) -->
 
 ## 🚀 About Me
 I'm a coding enthusiast with some knowledge in App and Web Development!
