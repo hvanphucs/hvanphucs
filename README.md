@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there. I am Van Phuc Huynh 👋
 
 ![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=hvanphucs&show_icons=true&theme=react)
 
 ## 🚀 About Me
-I'm a 17 year old coding enthusiast with some knowledge in App and Web Development!
+I'm a coding enthusiast with some knowledge in App and Web Development!
 
 ## 🔭 I'm currently self-taught to build my own English learning app: Its name is Gekco
 
