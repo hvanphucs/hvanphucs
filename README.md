@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=hvanphucs&show_icons=true&theme=react)
 
-**hvanphucs/hvanphucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🚀 About Me
 I'm a 17 year old coding enthusiast with some knowledge in App and Web Development!
 
