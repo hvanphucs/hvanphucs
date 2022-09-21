@@ -4,6 +4,8 @@
 
 ## 🚀 About Me
 I'm a coding enthusiast with some knowledge in App and Web Development!
+Intersing topics:
+Games, Science, ...
 
 ## Focusing :turtle:
 
